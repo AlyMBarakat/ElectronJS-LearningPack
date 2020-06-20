@@ -1,0 +1,14 @@
+{
+	"name": "hello-world",
+	"version": "1.0.0",
+	"main": "main.js",
+	"devDependencies": {
+		"electron": "^9.0.0"
+	},
+	"scripts": {
+		"start": "electron ."
+	},
+	"dependencies": {
+		"request": "^2.88.2"
+	}
+}
